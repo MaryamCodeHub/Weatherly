@@ -1,7 +1,7 @@
 # Weatherly
 A sleek, responsive weather dashboard that provides current weather conditions, 24-hour and 5-day forecasts, and **live weather news updates** powered by NewsAPI. The application is styled using modern CSS with animated backgrounds based on real-time weather conditions.
 
----
+
 
 ##  Features
 
@@ -14,7 +14,7 @@ A sleek, responsive weather dashboard that provides current weather conditions, 
   - Interactive buttons to read full articles
 - Sidebar navigation with "Dashboard", "Location", and "Reading"
 
----
+
 
 ##  Technologies Used
 
