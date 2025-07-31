@@ -1,0 +1,11 @@
+[Sat May 24 13:01:11 2025] PHP 8.3.6 Development Server (http://localhost:8080) started
+[Sat May 24 13:01:16 2025] 127.0.0.1:45894 Accepted
+[Sat May 24 13:01:17 2025] PHP Fatal error:  Uncaught Error: Call to undefined function getWeatherIcon() in /home/hammad-ahmed/weather-app/index.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/hammad-ahmed/weather-app/index.php on line 105
+[Sat May 24 13:01:17 2025] 127.0.0.1:45894 [500]: GET / - Uncaught Error: Call to undefined function getWeatherIcon() in /home/hammad-ahmed/weather-app/index.php:105
+Stack trace:
+#0 {main}
+  thrown in /home/hammad-ahmed/weather-app/index.php on line 105
+[Sat May 24 13:01:17 2025] 127.0.0.1:45894 Closing
